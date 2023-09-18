@@ -36,7 +36,7 @@ To get started with the "Notice-Board" project, follow these initial steps:
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/notice-board.git
+   git clone https://github.com/Eman1-2-3/notice-board.git
    ```
 
 2. Navigate to the project directory:
