@@ -1,6 +1,6 @@
 # Notice-Board Project
 
-The "Notice-Board" project is a simple web application designed to facilitate the sharing of posts by users, which can then be viewed by an admin. This README file provides essential information about the project, its features, setup instructions, and the technologies used.
+The "Notice-Board" project is a simple web application that allows users to write posts, and an admin can read all the posts. This README file provides an overview of the project, its features, setup instructions, and the technologies used.
 
 ## Table of Contents
 
@@ -12,23 +12,23 @@ The "Notice-Board" project is a simple web application designed to facilitate th
 
 ## Features
 
-The "Notice-Board" project offers the following core features:
+The "Notice-Board" project offers a basic set of features designed to facilitate communication between users and the admin:
 
-1. **User Post Submission**: Users can easily create and submit posts.
+1. **User Post Creation**: Users can write and submit posts to the notice board.
 
-2. **Admin Access**: The admin has access to view all the submitted posts.
+2. **Admin Post Reading**: The admin has the ability to read all the posts submitted by users.
 
 ## Technologies
 
-The "Notice-Board" project utilizes the following technologies:
+The "Notice-Board" project is built using the following technologies:
 
-1. **PHP**: PHP is used for server-side logic and handling database interactions.
+1. **PHP**: PHP is used for server-side logic and to interact with the MySQL database.
 
-2. **MySQL**: MySQL serves as the relational database management system to store and manage post data.
+2. **MySQL**: MySQL is employed as the relational database management system to store and retrieve posts efficiently.
 
 ## Getting Started
 
-To get started with the "Notice-Board" project, follow these initial steps:
+To get started with the "Notice-Board" project, follow these instructions:
 
 ### Installation
 
@@ -46,7 +46,7 @@ To get started with the "Notice-Board" project, follow these initial steps:
 
 3. Set up the MySQL database by importing the provided SQL schema file.
 
-4. Configure the database connection settings in the PHP files to match your local environment. Typically, this is done in a file like `config.php`.
+4. Configure the database connection settings in the PHP files. Typically, this is done in a file like `config.php`.
 
 ### Usage
 
@@ -54,8 +54,10 @@ To get started with the "Notice-Board" project, follow these initial steps:
 
 2. Access the application through your web browser.
 
-3. Users can create and submit posts through the provided interface.
+3. Users can write posts and submit them to the notice board.
 
-4. The admin can log in and access a dedicated admin panel to view all the submitted posts.
+4. The admin can access the admin panel and view all the posts submitted by users.
 
+## Note
 
+This project is intended for educational purposes and demonstrates basic functionality for a notice board system. It does not include user registration, authentication, or advanced features typically found in production-level applications.
