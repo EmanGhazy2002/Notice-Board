@@ -9,7 +9,6 @@ The "Notice-Board" project is a simple web application designed to facilitate th
 - [Getting Started](#getting-started)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
 
 ## Features
 
@@ -59,30 +58,4 @@ To get started with the "Notice-Board" project, follow these initial steps:
 
 4. The admin can log in and access a dedicated admin panel to view all the submitted posts.
 
-## Contributing
 
-Contributions to the "Notice-Board" project are welcome. If you'd like to contribute, please follow these guidelines:
-
-1. Fork the repository.
-
-2. Create a new branch for your feature or bug fix:
-
-   ```bash
-   git checkout -b feature-name
-   ```
-
-3. Implement your changes and commit them:
-
-   ```bash
-   git commit -m "Description of your changes"
-   ```
-
-4. Push your changes to your fork:
-
-   ```bash
-   git push origin feature-name
-   ```
-
-5. Create a pull request to merge your changes into the main project.
-
-Please ensure your code adheres to coding standards and includes appropriate documentation. Your contributions are greatly appreciated as we aim to enhance this simple yet effective notice-board application.
