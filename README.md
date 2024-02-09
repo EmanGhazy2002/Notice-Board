@@ -4,6 +4,7 @@ The "Notice-Board" project is a simple web application that allows users to writ
 
 ## Table of Contents
 
+
 - [Features](#features)
 - [Technologies](#technologies)
 - [Getting Started](#getting-started)
